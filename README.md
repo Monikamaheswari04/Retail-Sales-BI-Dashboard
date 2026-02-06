@@ -64,7 +64,7 @@ README.md
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/Retail-Sales-BI-Dashboard.git
+git clone https://github.com/Monikamaheswari04/Retail-Sales-BI-Dashboard.git
 cd Retail-Sales-BI-Dashboard
 ```
 
