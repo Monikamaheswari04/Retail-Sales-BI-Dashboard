@@ -62,32 +62,25 @@ README.md
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 ```bash
 git clone https://github.com/Monikamaheswari04/Retail-Sales-BI-Dashboard.git
 cd Retail-Sales-BI-Dashboard
 ```
 
-### 2️⃣ Create virtual environment (optional)
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 
-### 3️⃣ Install dependencies
+
+### 2 Install dependencies
 ```bash
 pip install pandas plotly dash
 ```
 
-### 4️⃣ Run the application
+### 3 Run the application
 ```bash
-python app.py
+python analysis.py
 ```
 
-### 5️⃣ Open in browser
-```
-http://127.0.0.1:8050/
-```
+
 
 ---
 
